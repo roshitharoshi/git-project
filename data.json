@@ -1,0 +1,28 @@
+{
+    
+    "cards":[{
+        "img":"images/iphone.jpg",
+        "name":"iphone",
+        "rate":"80000",
+        "offer":"60000",
+        "button":"view"
+    },{
+        "img":"images/1+.jpg",
+        "name":"samsung",
+        "rate":"12000",
+        "offer":"9000",
+        "button":"view"
+    
+    },{
+
+    "img":"images/mobile3.jpg",
+    "name":"samsung",
+     "rate":"12000",
+     "offer":"9000",
+     "button":"view"
+     }
+    ]
+}
+    
+    
+
